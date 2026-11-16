@@ -12,6 +12,7 @@ weitergereicht. Die Adressen sind dauerhaft und ändern sich nicht.
 shift/          Beitragsgrafiken zu SHIFT
 partcon/        PartCon Plus
 4futurefamily/  4futurefamily
+medcon/         MedCon Finance
 ```
 
 ## Dateinamen
