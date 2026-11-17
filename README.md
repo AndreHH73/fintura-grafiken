@@ -13,6 +13,7 @@ shift/          Beitragsgrafiken zu SHIFT
 partcon/        PartCon Plus
 4futurefamily/  4futurefamily
 medcon/         MedCon Finance
+arztfacts/      Arzt-Facts (TikTok)
 ```
 
 ## Dateinamen
